@@ -5,7 +5,7 @@ This repository contains only the **HTML** and **CSS** files for my blog, automa
 ## Source Code
 
 You can find the actual source code of the blog in the following repository:  
-[Source](https://github.com/lucasdcampos/blog.lucasof)
+[Source](https://github.com/lucasdcampos/blog-src)
 
 ## Access the Blog
 
